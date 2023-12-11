@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/helloworld/static/css/main.5dd72c30.css",
+    "main.js": "/helloworld/static/js/main.de424dd9.js",
+    "static/js/787.8689cfb7.chunk.js": "/helloworld/static/js/787.8689cfb7.chunk.js",
+    "static/media/background-img-coastline.mp4": "/helloworld/static/media/background-img-coastline.7119fe80d7a58b45a141.mp4",
+    "index.html": "/helloworld/index.html",
+    "main.5dd72c30.css.map": "/helloworld/static/css/main.5dd72c30.css.map",
+    "main.de424dd9.js.map": "/helloworld/static/js/main.de424dd9.js.map",
+    "787.8689cfb7.chunk.js.map": "/helloworld/static/js/787.8689cfb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd72c30.css",
+    "static/js/main.de424dd9.js"
+  ]
+}
